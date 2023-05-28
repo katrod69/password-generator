@@ -9,7 +9,7 @@ My motivation for this password generator was to create a functioning webpage wi
 Sources I used were from google pages. 
 Cynthia J Mory KeyGen Application: Password Generator
 
-![screenshot]("./assets/Screenshot.png")
+![screenshot](assets/Screenshot.png)
 
 ## License
 Creative Commons Legal Code
